@@ -169,7 +169,7 @@ export default {
         }
         this.photos.push(photo)
       });
-      console.log(this.photos)
+      // console.log(this.photos)
     });
   }
 }
